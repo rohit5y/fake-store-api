@@ -9,4 +9,5 @@ router.put('/:id',user.editUser)
 router.patch('/:id',user.editUser)
 router.delete('/:id',user.deleteUser)
 
+
 module.exports = router
